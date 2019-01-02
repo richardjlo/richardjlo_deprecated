@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, World!"
 date:   2018-12-31 18:58:03 +0800
-categories: jekyll update
+categories: 
 ---
 
 When learning a new programming language, programmers typically write a very simple program that displays the words “Hello, World!” to the screen. 
