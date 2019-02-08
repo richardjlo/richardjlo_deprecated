@@ -7,6 +7,51 @@ categories:
 
 [Last updated: Feb 8, 2019]
 
+# [Meditations by Marcus Marcus Aurelius, Translated by Gregory Hays]
+> Don’t waste the rest of your time here worrying about other people-unless it affects the common good. It will keep you from doing anything useful. You’ll be too preoccupied with what so-and-so is doing, and why, and what they’re saying, and what they’re thinking, and what they’re up to, and all the other things that throw you off and keep you from focusing on your own mind.
+
+> People try to get away from it all - to the country, to the beach, to the mountains. You always wish that you could too. Which is idiotic: you can get away from it anytime you like.
+
+> Disturbance comes only from within - from our own perceptions. 
+
+> Everything you see will soon alter and cease to exists. Think of how many changes you’ve already seen. 
+
+> “The world is nothing but change. Our life is only perspective."
+
+> Choose not to be harmed - and you won’t feel harmed. Don’t feel harmed - and you haven’t been. 
+
+> It can ruin your life only if it ruins your character. Otherwise it cannot harm you.
+
+> That every event is the right one. Look closely and you’ll see. Not just the right one overall, but right. As if someone had weighted it out with scales.
+
+> Two kinds of readiness are constantly needed: (i) to do only what the logos of authority and law directs, with the good of human beings in mind, (ii) to reconsider your position, when someone can set you straight or convert you to his. But your conversion should always rest on a conviction that it’s right, or benefits others - nothing else. Not because it’s more appealing or more popular.
+
+> Nothing that goes on in anyone else’s mind can harm you.
+
+> What happens to everyone - bad and good alike - is neither good nor bad. What happens in every life - lived naturally or not - is neither natural or unnatural. 
+
+> If an action or utterance is appropriate, then it’s appropriate for you. Don’t be put off by other people’s comments and criticism. If it’s right to say or do it, then it’s the right thing for you to do or say.
+
+> Keep walking. Follow your own nature, and follow Nature - along the road they share. 
+
+> Pride is a master of deception: when you think you’re occupied in the weightiest business, that’s when he has you in his spell. 
+
+> This who revere [the universal mind] - the one we all share, as humans and as citizens - aren’t interested in other things. Their focus is on the state of their own minds - to avoid all selfishness and illogic, and to work with others to achieve that goal.
+
+> People refuse to admire their contemporaries, the people whose lives they share. No, but to be admired by Posterity - people they’ve never met and never will - that’s what they set their hearts on. You might as well be upset at not being a hero to your great-grandfather.
+
+> We need to excuse what our sparring partners do, and just keep our distance - without suspicion or hatred. 
+
+> Alexander the Great and his mule driver both died.
+
+> I do what is mine to do; the rest doesn’t disturb me. The rest is inanimate, or has no logos, or it wanders at random and has lost the road.
+
+> It’s normal to feel pain in your hands and feet, if you’re using your feet as feet and your hands as hands. And for a human being to feel stress is normal - if he’s living a normal human life. And if it’s normal, how can it be bad?
+
+> You shouldn’t be surprised that a fig tree produces figs, nor the world what it produces. A good doctor isn’t surprised when his patients have fevers, or a helmsman when the wind blows against him.
+
+> If it’s in your control, why do you do it? If it’s in someone else’s, then who are you blaming? Atoms? The gods? Stupid either way. Blame no one. Set people straight, if you can. If not, just repair the damage. And suppose you can’t do that either. Then where does blaming people get you? No pointless actions.
+
 # [Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life]
 > All advice can only be a product of the man who gives it. What is truth to one may be disaster to another.
 
@@ -85,4 +130,5 @@ categories:
 
 [Antifragile by Nassim Taleb]: <https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680>
 [Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life]: https://fs.blog/2014/05/hunter-s-thompson-to-hume-logan/
+[Meditations by Marcus Marcus Aurelius, Translated by Gregory Hays]: <https://www.amazon.com/dp/0812968255>
 
