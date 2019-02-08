@@ -5,6 +5,33 @@ date:   2019-2-8 18:58:03 +0800
 categories: 
 ---
 
+[Last updated: Feb 8, 2019]
+
+# [Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life]
+> All advice can only be a product of the man who gives it. What is truth to one may be disaster to another.
+
+> Whether to float with the tide, or to swim for a goal. It is a choice we must all make consciously or unconsciously at one time in our lives.
+
+> The tragedy of life — is that we seek to understand the goal and not the man.
+
+> When you were young, let us say that you wanted to be a fireman. I feel reasonably safe in saying that you no longer want to be a fireman. Why? Because your perspective has changed. It’s not the fireman who has changed, but you... So it would seem foolish, would it not, to adjust our lives to the demands of a goal we see from a different angle every day? 
+
+> We do not strive to be firemen, we do not strive to be bankers, nor policemen, nor doctors. WE STRIVE TO BE OURSELVES. I don’t mean that we can’t BE firemen, bankers, or doctors— but that we must make the goal conform to the individual, rather than make the individual conform to the goal.
+
+> Let’s assume that you think you have a choice of eight paths to follow (all pre-defined paths, of course). And let’s assume that you can’t see any real purpose in any of the eight. THEN— and here is the essence of all I’ve said— you MUST FIND A NINTH PATH.
+
+> Beware of looking for goals: look for a way of life. Decide how you want to live and then see what you can do to make a living WITHIN that way of life.
+
+> Is it worth giving up what I have to look for something better? I don’t know— is it? Who can make that decision but you? 
+
+> it is not necessary to accept the choices handed down to you by life as you know it. There is more to it than that— no one HAS to do something he doesn’t want to do for the rest of his life. 
+
+
+
+
+
+
+
 # [Antifragile by Nassim Taleb]
 
 > Artisans, say taxi drivers, prostitutes (a very, very old profession), carpenters, plumbers, tailors, and dentists, have some volatility in their income but are rather robust to a minor professional Black Swan, one that would bring their income to a complete halt. Their risks are visible. Not so with employees, who have no volatility, but can be surprised to see their income going to zero after a phone call from the personnel department. Employees’ risks are hidden.
@@ -57,4 +84,5 @@ categories:
 > No opinion without risk… otherwise, you do not really have an opinion at all. You need to be earmarked as someone who has no downside for his opinion, with a special status in society, perhaps something below that of ordinary citizen. Commentators need to have a status below ordinary citizens. Regular citizens, at least, face the downside of their statements... I find it profoundly unethical to talk without doing, without exposure to harm, without having one’s skin in the game, without having something at risk. You express your opinion; it can hurt others (who rely on it), yet you insure no liability.
 
 [Antifragile by Nassim Taleb]: <https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680>
+[Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life]: https://fs.blog/2014/05/hunter-s-thompson-to-hume-logan/
 
