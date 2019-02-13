@@ -11,4 +11,4 @@ See what I'm working on:
 * [Chiang Mai City Recs] - my top recommendations for Chiang Mai, Thailand.
 
 [rlo labs]: <https://rlolabs.herokuapp.com/>
-[Chiang Mai City Recs]: <https://city-recs-app.firebaseapp.com/>
+[Chiang Mai City Recs]: <https://cityrecs.rlolabs.com>
