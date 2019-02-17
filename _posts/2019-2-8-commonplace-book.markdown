@@ -6,6 +6,11 @@ categories:
 ---
 
 [Last updated: Feb 17, 2019]
+# [Steal Like an Artist]
+> Don’t try to look like your heroes, try to see like your heroes.
+
+# [The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman]
+> Authority may be a hint as to what the truth is, but is not the source of information. As long as it’s possible, we should disregard authority whenever the observations disagree with it.
 
 # [Meditations by Marcus Marcus Aurelius, Translated by Gregory Hays]
 > Don’t waste the rest of your time here worrying about other people... It will keep you from doing anything useful. You’ll be too preoccupied with what so-and-so is doing, and why, and what they’re saying, and what they’re thinking, and what they’re up to, and all the other things that throw you off and keep you from focusing on your own mind.
@@ -122,7 +127,8 @@ categories:
 > The Talker’s Free option - 
 > No opinion without risk… otherwise, you do not really have an opinion at all. You need to be earmarked as someone who has no downside for his opinion, with a special status in society, perhaps something below that of ordinary citizen. Commentators need to have a status below ordinary citizens. Regular citizens, at least, face the downside of their statements... I find it profoundly unethical to talk without doing, without exposure to harm, without having one’s skin in the game, without having something at risk. You express your opinion; it can hurt others (who rely on it), yet you insure no liability.
 
+[Steal Like an Artist]: <https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253>
+[The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman]: <https://www.amazon.com/Pleasure-Finding-Things-Out-Richard/dp/0465023959>
 [Antifragile by Nassim Taleb]: <https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680>
 [Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life]: https://fs.blog/2014/05/hunter-s-thompson-to-hume-logan/
 [Meditations by Marcus Marcus Aurelius, Translated by Gregory Hays]: <https://www.amazon.com/dp/0812968255>
-
