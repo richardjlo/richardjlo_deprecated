@@ -5,10 +5,10 @@ date:   2019-2-8 18:58:03 +0800
 categories: 
 ---
 
-[Last updated: Feb 8, 2019]
+[Last updated: Feb 17, 2019]
 
 # [Meditations by Marcus Marcus Aurelius, Translated by Gregory Hays]
-> Don’t waste the rest of your time here worrying about other people-unless it affects the common good. It will keep you from doing anything useful. You’ll be too preoccupied with what so-and-so is doing, and why, and what they’re saying, and what they’re thinking, and what they’re up to, and all the other things that throw you off and keep you from focusing on your own mind.
+> Don’t waste the rest of your time here worrying about other people... It will keep you from doing anything useful. You’ll be too preoccupied with what so-and-so is doing, and why, and what they’re saying, and what they’re thinking, and what they’re up to, and all the other things that throw you off and keep you from focusing on your own mind.
 
 > People try to get away from it all - to the country, to the beach, to the mountains. You always wish that you could too. Which is idiotic: you can get away from it anytime you like.
 
@@ -70,12 +70,6 @@ categories:
 > Is it worth giving up what I have to look for something better? I don’t know— is it? Who can make that decision but you? 
 
 > it is not necessary to accept the choices handed down to you by life as you know it. There is more to it than that— no one HAS to do something he doesn’t want to do for the rest of his life. 
-
-
-
-
-
-
 
 # [Antifragile by Nassim Taleb]
 
