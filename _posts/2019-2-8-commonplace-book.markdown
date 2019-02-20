@@ -5,7 +5,20 @@ date:   2019-2-8 18:58:03 +0800
 categories: 
 ---
 
-[Last updated: Feb 17, 2019]
+[Last updated: Feb 20, 2019]
+# [How to Be a Linchpin | Seth Godin on Impact Theory (YouTube)](https://youtu.be/F80WmftF5YY)
+> Why the typical job is not for me. [29:27](https://www.youtube.com/watch?v=F80WmftF5YY&t=29m27s)
+
+> How can I keep living expenses to a minimum so that I can keep playing? [29:57](https://www.youtube.com/watch?v=F80WmftF5YY&t=29m57s)
+
+> Overview of the altMBA - projects, giving/getting feedback, live coaches. [33:13](http://www.youtube.com/watch?v=F80WmftF5YY&t=33m10s)
+
+> Mentors are way overrated. [35:47](https://www.youtube.com/watch?v=F80WmftF5YY&t=35m47s)
+
+>How I novelized Nintendo games. [36:22](https://www.youtube.com/watch?v=F80WmftF5YY&t=36m22s)
+
+> In the connection economy, you can take separate threads from many different things and package them into one solution. [38:00](https://www.youtube.com/watch?v=F80WmftF5YY&t=38m0s)
+
 # [Steal Like an Artist]
 > Don’t try to look like your heroes, try to see like your heroes.
 
