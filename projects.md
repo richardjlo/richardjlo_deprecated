@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-[Last updated: Feb 7, 2019]
+[Last updated: March 25, 2019]
 
 See what I'm working on: 
 * [Counter App] - a simple counter application that incorporates React, Redux, and Firestore.
