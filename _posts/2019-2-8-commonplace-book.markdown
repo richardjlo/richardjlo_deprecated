@@ -22,7 +22,8 @@ categories:
 # [Steal Like an Artist]
 > Don’t try to look like your heroes, try to see like your heroes.
 
-# [The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman] [see video here](https://www.dailymotion.com/video/x6ptg1x)
+# [The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman] 
+[see video here](https://www.dailymotion.com/video/x6ptg1x)
 > Authority may be a hint as to what the truth is, but is not the source of information. As long as it’s possible, we should disregard authority whenever the observations disagree with it.
 
 # [Meditations by Marcus Marcus Aurelius, Translated by Gregory Hays]
