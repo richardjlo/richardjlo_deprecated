@@ -25,6 +25,7 @@ categories:
 * [Skype][skype] - I always maintain a small balance in case I need to call local numbers while traveling. Their rates are very reasonable and you can call any local number provided that you have an internet connection. 
 * [Spotify][spotify] - listen to music / podcasts without ads. 
 * [World Time Buddy][world-time-buddy] - easily compare times across timezones. 
+* [Calendly][calendly] - easiest to use scheduling tool that I've found so far. 
 
 ### Housing
 * [Airbnb][airbnb]
@@ -45,3 +46,4 @@ categories:
 [airbnb]: https://www.airbnb.com/
 [booking]: https://www.booking.com
 [world-time-buddy]: https://www.worldtimebuddy.com
+[calendly]: https://calendly.com/
