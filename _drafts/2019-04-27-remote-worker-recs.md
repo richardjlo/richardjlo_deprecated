@@ -24,6 +24,7 @@ categories:
 * [1Password][1password] - very user-friendly password manager. 
 * [Skype][skype] - I always maintain a small balance in case I need to call local numbers while traveling. Their rates are very reasonable and you can call any local number provided that you have an internet connection. 
 * [Spotify][spotify] - listen to music / podcasts without ads. 
+* [World Time Buddy][world-time-buddy] - easily compare times across timezones. 
 
 ### Housing
 * [Airbnb][airbnb]
@@ -43,3 +44,4 @@ categories:
 [transferwise]: transferwise.com/u/richardl712
 [airbnb]: https://www.airbnb.com/
 [booking]: https://www.booking.com
+[world-time-buddy]: https://www.worldtimebuddy.com
