@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Now
+title: What I'm doing now
 permalink: /now/
 ---
 
-Updated from Chiang Mai, Thailand 🇹🇭 (November 14, 2019)
+This is [a now page](https://nownownow.com/about), and if you have your own site, you should make one, too. Credit: [Derek Sivers](https://sivers.org/now)
+
+---
+
+November 14, 2019
+From Chiang Mai, Thailand 🇹🇭
 
 ### What I'm working on
 
