@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Now
+permalink: /now/
 ---
 
 **Last updated: November 14, 2019**
+Currently in Chiang Mai, Thailand 🇹🇭
 
 ### What I'm working on
 
