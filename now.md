@@ -4,8 +4,7 @@ title: Now
 permalink: /now/
 ---
 
-**Last updated: November 14, 2019**
-Currently in Chiang Mai, Thailand 🇹🇭
+Updated from Chiang Mai, Thailand 🇹🇭 (November 14, 2019)
 
 ### What I'm working on
 
