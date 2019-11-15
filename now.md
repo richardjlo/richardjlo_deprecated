@@ -4,14 +4,10 @@ title: What I'm doing now
 permalink: /now/
 ---
 
-This is [a now page](https://nownownow.com/about), and if you have your own site, you should make one, too. Credit: [Derek Sivers](https://sivers.org/now)
-
----
-
 November 14, 2019
 From Chiang Mai, Thailand 🇹🇭
 
-### What I'm working on
+### Projects that I'm working on
 
 ####  Status: Live
 * [Designstaq]
@@ -37,7 +33,9 @@ From Chiang Mai, Thailand 🇹🇭
 * [Chiang Mai City Recs]
 	* My top recommendations for Chiang Mai, Thailand.
 
-  
+---
+This is [a now page](https://nownownow.com/about). If you have your own site, you should make one too! Credit: [Derek Sivers](https://sivers.org/now)
+
 [rlo labs]: <https://rlolabs.herokuapp.com/>
 [Chiang Mai City Recs]: <https://cityrecs.rlolabs.com>
 [Counter App]: <https://counter-app-d343f.firebaseapp.com/>
@@ -48,3 +46,4 @@ From Chiang Mai, Thailand 🇹🇭
 [Designstaq]: <https://designstaq.com/>
 [Sign up for our beta]: <https://forms.gle/unipPFvjHRg3MAYM6>
 [1,000 true fans]: <https://kk.org/thetechnium/1000-true-fans/>
+
