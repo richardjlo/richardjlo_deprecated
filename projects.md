@@ -10,13 +10,13 @@ permalink: /projects/
 
 ####  Status: Live
 * [Designstaq]
-  * Still my main gig. Designstaq is a a web design company that I started in 2016 that specializes in building Squarespace websites for individuals and companies in the professional services industry (think speakers, authors, consultants, law firms, investment firms, etc.)
+  * Still my main gig. Designstaq is a a web design company that I started in 2016 that specializes in building Squarespace websites. We mostly work with individuals and small teams in the professional services industry (think speakers, authors, consultants, law firms, investment firms, etc.).
 * [rlo labs (youtube channel)]
   * I'm experimenting with creating content on YouTube. I've decided to focus on a very specific niche – creating unboxing videos for B2B SAAS products. I know it's not the most *thrilling* space, but hey, all I need is [1,000 true fans] 😉 + affiliates in this space are 🔥
 
 ####  Status: Beta
 * [Tribe]
-  * A web app that helps Digital Nomads know where their friends are planning to be. Interested? [Sign up for our beta]
+  * A web app that helps Digital Nomads know where their friends are planning to be. Interested in trying it out? [Sign up for our beta]
 * [Nomad Hunt]
   * A crowd-sourced listing of the best products and services designed for Digital Nomads.  
   
