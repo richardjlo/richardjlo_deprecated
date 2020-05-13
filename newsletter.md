@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Newsletter
-permalink: https://rlo.substack.com/
+title: RLo's Newsletter
+permalink: /newsletter/
 ---
 
-Substack
+I periodically write a newsletter using a service called Substack. If you're interested, you can check out some of my posts and subscribe at [rlo.substack.com](https://rlo.substack.com/)
