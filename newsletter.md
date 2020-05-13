@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RLo's Newsletter
+title: Newsletter
 permalink: /newsletter/
 ---
 
